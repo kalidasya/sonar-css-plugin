@@ -1,7 +1,7 @@
 /*
  * SonarQube CSS / SCSS / Less Analyzer
- * Copyright (C) 2013-2016 David RACODON and Tamas Kende
- * mailto: david.racodon@gmail.com
+ * Copyright (C) 2013-2016 Tamas Kende and David RACODON
+ * mailto:contact AT sonarsource DOT com
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
