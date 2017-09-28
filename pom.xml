@@ -51,19 +51,19 @@
   </modules>
 
   <scm>
-    <connection>scm:git:git@github.com:racodond/sonar-css-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:racodond/sonar-css-plugin.git</developerConnection>
-    <url>https://github.com/racodond/sonar-css-plugin</url>
+    <connection>scm:git:git@github.com:kalidasya/sonar-css-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:kalidasya/sonar-css-plugin.git</developerConnection>
+    <url>https://github.com/kalidasya/sonar-css-plugin</url>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub Issues</system>
     <url>https://github.com/kalidasya/sonar-css-plugin/issues</url>
   </issueManagement>
-  <!--ciManagement>
+  <ciManagement>
     <system>Travis CI</system>
-    <url>https://travis-ci.org/racodond/sonar-css-plugin</url>
-  </ciManagement-->
+    <url>https://travis-ci.org/kalidasya/sonar-css-plugin</url>
+  </ciManagement>
 
   <properties>
     <license.title>SonarQube CSS / SCSS / Less Analyzer</license.title>
