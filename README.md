@@ -1,9 +1,9 @@
 SonarQube CSS / SCSS / Less Analyzer
 ====================================
-[![Build Status](https://api.travis-ci.org/racodond/sonar-css-plugin.svg?branch=master)](https://travis-ci.org/racodond/sonar-css-plugin)
-[![Build status](https://ci.appveyor.com/api/projects/status/36tt33b2wrfjgmo2/branch/master?svg=true)](https://ci.appveyor.com/project/racodond/sonar-css-plugin/branch/master)
+[![Build Status](https://api.travis-ci.org/kalidasya/sonar-css-plugin.svg?branch=master)](https://travis-ci.org/kalidasya/sonar-css-plugin)
+[![Build status](https://ci.appveyor.com/api/projects/status/2brq3t2eirxfflk2?svg=true)](https://ci.appveyor.com/project/kalidasya/sonar-css-plugin)
 [![Quality Gate status](https://sonarqube.com/api/badges/gate?key=org.codehaus.sonar-plugins.css%3Acss)](https://sonarqube.com/overview?id=org.codehaus.sonar-plugins.css%3Acss)
-[![Twitter](https://img.shields.io/badge/Twitter-@racodond-blue.svg)](https://twitter.com/racodond)
+[![Twitter](https://img.shields.io/badge/Twitter-@kalidasya-blue.svg)](https://twitter.com/kalidasya)
 
 
 ## Description
@@ -32,7 +32,7 @@ A live example is available [here](http://sonarqube.racodond.com/dashboard/index
 
 ### Installation Guide
 1. [Download and install](http://docs.sonarqube.org/display/SONAR/Setup+and+Upgrade) SonarQube
-1. Install the CSS / SCSS / Less plugin either by a [direct download](https://github.com/racodond/sonar-css-plugin/releases) or through the [update center](http://docs.sonarqube.org/display/SONAR/Update+Center). See [plugin compatibility with SonarQube versions](http://docs.sonarqube.org/display/PLUG/Plugin+Version+Matrix).
+1. Install the CSS / SCSS / Less plugin either by a [direct download](https://github.com/kalidasya/sonar-css-plugin/releases) or through the [update center](http://docs.sonarqube.org/display/SONAR/Update+Center). See [plugin compatibility with SonarQube versions](http://docs.sonarqube.org/display/PLUG/Plugin+Version+Matrix).
 1. Install your [favorite scanner](http://docs.sonarqube.org/display/SONAR/Analyzing+Source+Code#AnalyzingSourceCode-RunningAnalysis) (SonarQube Scanner, Maven, Ant, etc.)
 1. [Analyze your code](http://docs.sonarqube.org/display/SONAR/Analyzing+Source+Code#AnalyzingSourceCode-RunningAnalysis)
 
@@ -60,7 +60,7 @@ You're thinking of new valuable checks? Version 2.1 or greater provides an API t
 A sample plugin with detailed explanations is available [here](https://github.com/racodond/sonar-css-custom-rules-plugin).
 If your custom checks may benefit the community, feel free to create a pull request in order to make the check available in the CSS / SCSS / Less analyzer.
 
-You're thinking of new checks that may benefit the community but don't have the time or the skills to write them? Feel free to create an [issue](https://github.com/racodond/sonar-css-plugin/issues) for your checks to be taken under consideration.
+You're thinking of new checks that may benefit the community but don't have the time or the skills to write them? Feel free to create an [issue](https://github.com/kalidasya/sonar-css-plugin/issues) for your checks to be taken under consideration.
 
 
 ## Metrics
@@ -87,6 +87,6 @@ It computes the complexity/rule, meaning the average number of selectors per rul
 Any contribution is more than welcome!
  
 You feel like:
-* Adding a new check? Just [open an issue](https://github.com/racodond/sonar-css-plugin/issues/new) to discuss the value of your check. Once validated, code, don't forget to add a lot of unit tests and open a PR.
-* Maintaining the [stylelint / SonarQube rule mapping](https://github.com/racodond/sonar-css-plugin/blob/master/doc/stylelint-sonarqube-rule-mapping.md)? Just open a PR 
+* Adding a new check? Just [open an issue](https://github.com/kalidasya/sonar-css-plugin/issues/new) to discuss the value of your check. Once validated, code, don't forget to add a lot of unit tests and open a PR.
+* Maintaining the [stylelint / SonarQube rule mapping](https://github.com/kalidasya/sonar-css-plugin/blob/master/doc/stylelint-sonarqube-rule-mapping.md)? Just open a PR 
 * Fixing some bugs or improving existing checks? Just open a PR.
