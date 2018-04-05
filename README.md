@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+Please visit https://github.com/racodond/sonar-css-plugin as its an updated version of the plugin
+
 SonarQube CSS / SCSS / Less Analyzer
 ====================================
 [![Build Status](https://api.travis-ci.org/kalidasya/sonar-css-plugin.svg?branch=master)](https://travis-ci.org/kalidasya/sonar-css-plugin)
